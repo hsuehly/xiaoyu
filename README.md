@@ -1,5 +1,7 @@
 # 小遇 Xiaoyu
 
+**简体中文** | [English](README.en.md)
+
 一款使用 Flutter 开发的数字人陪伴 App，支持定制形象、人设和声音，进行实时语音与视频互动。
 
 支持 **iOS / Android** · 当前版本 `0.1.0+1` · **内测中** · 接入 Vidu S2-Avatar 实时版
